@@ -1,0 +1,98 @@
+.navbar{
+    height: 40px;
+}
+.stylinglogo{
+    width: 70px;
+    height:40px;
+    padding:5px;
+}
+#go{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    border:0px;
+}
+#go:hover{
+    color:#c90202;
+}
+#goo1{
+    background-color:#c90202;
+    color: white;
+    padding: 4px 6px;
+    border-radius: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:800px;
+    border:0px;
+    margin-left: 20px;
+}
+#goo1:hover{
+    background-color:lightpink;
+    color: #c90202;
+}
+.bgimg1{
+    background-image: url("https://st1.bgr.in/wp-content/uploads/2022/04/Untitled-design-2022-04-20T095244.884.jpg");
+    
+    background-size: cover;
+    height:60vh;
+}
+.heading{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bold;
+}
+.paraline{
+    color: #f5f7fa;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 24px;
+}
+.buttonst{
+    color:white;
+    background-color: #c90202;
+    width: 230px;
+    height:45px;
+    border-width: 0px;
+    border-radius: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.netbgimg{
+    background-image:url("https://img.freepik.com/premium-vector/dark-marble-texture-detailed-structure-marble-background_28943-550.jpg?w=1060");
+}
+.netimage{
+    width: 350px;
+}
+.nethead{
+    color:whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    padding:5px;
+}
+.netpara{
+    color: #5a7184;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+}
+.netbutton{
+    color:#c90202;
+}
+.netbutton{
+    color: white;
+    background-color: #c90202;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+.netimage1{
+    background-image:url("https://tse4.mm.bing.net/th?id=OIP.1-e30ROXELOkijGdSmvJDQHaE8&pid=Api&P=0");
+}
+.playhead{
+    color: #f5f7fa;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 24px;
+}
